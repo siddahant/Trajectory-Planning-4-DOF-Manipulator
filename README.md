@@ -1,7 +1,7 @@
 # SCARA-Robot
 For the given 4-DOF parameters of manipulator programmed a robust numerical inverse kinematic algorithm for the desired end-effector pose trajectory using analytical Jacobian to compute desired joint variable.
 
-As result Achieved the 98.9% of accuracy and minimized the operation error between Actual vs Desired Trajectory for smooth motion by tunning the positive definite gain matrix.
+As result Achieved the 98.8% of accuracy and minimized the operation error between Actual vs Desired Trajectory for smooth motion by tunning the positive definite gain matrix.
 
 
 ![x](https://user-images.githubusercontent.com/44742647/148126631-88ab5911-5f3d-4d91-a585-824aafa00dd4.png)![y](https://user-images.githubusercontent.com/44742647/148126639-6dca7d8a-f7b3-4597-b94a-3e76ae3e212f.png)
